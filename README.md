@@ -1,5 +1,7 @@
 # Trading Bot - Binance Futures Testnet
 
+![Python](https://img.shields.io/badge/python-3.11-blue?logo=python&logoColor=white) ![Binance](https://img.shields.io/badge/binance-futures-blue) ![Async](https://img.shields.io/badge/async-asyncio-blue) ![Logging](https://img.shields.io/badge/logging-structured-blue) ![Demo](https://img.shields.io/badge/demo-included-green)
+
 A Python trading bot for Binance Futures Testnet that places market/limit orders and executes a grid trading strategy, with structured logging and error handling.
 
 ## Features
